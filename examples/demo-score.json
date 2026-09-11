@@ -1,0 +1,272 @@
+{
+  "title": "Embers Before Dawn",
+  "theme": "An authored demonstration of motif, departure and return",
+  "mood": [
+    "reflective",
+    "hopeful"
+  ],
+  "rationale": "A seven-note idea returns over a changing bass; the third phrase rises an octave.",
+  "instrument_advice": [
+    "The built-in flute and pluck are synthesized proxies. Try a flute and nylon guitar in a GM SoundFont."
+  ],
+  "tempo_bpm": 88,
+  "beats_per_bar": 4,
+  "length_beats": 32,
+  "sections": [
+    {
+      "name": "Embers",
+      "beat": 0,
+      "purpose": "State the idea"
+    },
+    {
+      "name": "First light",
+      "beat": 16,
+      "purpose": "Open the register"
+    },
+    {
+      "name": "Return",
+      "beat": 24,
+      "purpose": "Resolve"
+    }
+  ],
+  "tracks": [
+    {
+      "name": "Reed melody",
+      "role": "lead",
+      "program": 73,
+      "channel": 0,
+      "synth": "flute",
+      "pan": -0.2,
+      "gain": 0.8,
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 0.8,
+          "pitch": 62,
+          "velocity": 68
+        },
+        {
+          "beat": 1,
+          "duration": 0.8,
+          "pitch": 65,
+          "velocity": 68
+        },
+        {
+          "beat": 2,
+          "duration": 0.8,
+          "pitch": 69,
+          "velocity": 68
+        },
+        {
+          "beat": 3,
+          "duration": 0.8,
+          "pitch": 67,
+          "velocity": 68
+        },
+        {
+          "beat": 4,
+          "duration": 0.8,
+          "pitch": 65,
+          "velocity": 68
+        },
+        {
+          "beat": 5,
+          "duration": 0.8,
+          "pitch": 64,
+          "velocity": 68
+        },
+        {
+          "beat": 6,
+          "duration": 1.6,
+          "pitch": 62,
+          "velocity": 68
+        },
+        {
+          "beat": 8,
+          "duration": 0.8,
+          "pitch": 62,
+          "velocity": 73
+        },
+        {
+          "beat": 9,
+          "duration": 0.8,
+          "pitch": 65,
+          "velocity": 73
+        },
+        {
+          "beat": 10,
+          "duration": 0.8,
+          "pitch": 69,
+          "velocity": 73
+        },
+        {
+          "beat": 11,
+          "duration": 0.8,
+          "pitch": 67,
+          "velocity": 73
+        },
+        {
+          "beat": 12,
+          "duration": 0.8,
+          "pitch": 65,
+          "velocity": 73
+        },
+        {
+          "beat": 13,
+          "duration": 0.8,
+          "pitch": 64,
+          "velocity": 73
+        },
+        {
+          "beat": 14,
+          "duration": 1.6,
+          "pitch": 62,
+          "velocity": 73
+        },
+        {
+          "beat": 16,
+          "duration": 0.8,
+          "pitch": 74,
+          "velocity": 78
+        },
+        {
+          "beat": 17,
+          "duration": 0.8,
+          "pitch": 77,
+          "velocity": 78
+        },
+        {
+          "beat": 18,
+          "duration": 0.8,
+          "pitch": 81,
+          "velocity": 78
+        },
+        {
+          "beat": 19,
+          "duration": 0.8,
+          "pitch": 79,
+          "velocity": 78
+        },
+        {
+          "beat": 20,
+          "duration": 0.8,
+          "pitch": 77,
+          "velocity": 78
+        },
+        {
+          "beat": 21,
+          "duration": 0.8,
+          "pitch": 76,
+          "velocity": 78
+        },
+        {
+          "beat": 22,
+          "duration": 1.6,
+          "pitch": 74,
+          "velocity": 78
+        },
+        {
+          "beat": 24,
+          "duration": 0.8,
+          "pitch": 62,
+          "velocity": 83
+        },
+        {
+          "beat": 25,
+          "duration": 0.8,
+          "pitch": 65,
+          "velocity": 83
+        },
+        {
+          "beat": 26,
+          "duration": 0.8,
+          "pitch": 69,
+          "velocity": 83
+        },
+        {
+          "beat": 27,
+          "duration": 0.8,
+          "pitch": 67,
+          "velocity": 83
+        },
+        {
+          "beat": 28,
+          "duration": 0.8,
+          "pitch": 65,
+          "velocity": 83
+        },
+        {
+          "beat": 29,
+          "duration": 0.8,
+          "pitch": 64,
+          "velocity": 83
+        },
+        {
+          "beat": 30,
+          "duration": 1.6,
+          "pitch": 62,
+          "velocity": 83
+        }
+      ]
+    },
+    {
+      "name": "Plucked ground",
+      "role": "bass",
+      "program": 24,
+      "channel": 1,
+      "synth": "pluck",
+      "pan": 0.2,
+      "gain": 0.65,
+      "notes": [
+        {
+          "beat": 0,
+          "duration": 3.5,
+          "pitch": 38,
+          "velocity": 62
+        },
+        {
+          "beat": 4,
+          "duration": 3.5,
+          "pitch": 45,
+          "velocity": 62
+        },
+        {
+          "beat": 8,
+          "duration": 3.5,
+          "pitch": 41,
+          "velocity": 62
+        },
+        {
+          "beat": 12,
+          "duration": 3.5,
+          "pitch": 43,
+          "velocity": 62
+        },
+        {
+          "beat": 16,
+          "duration": 3.5,
+          "pitch": 46,
+          "velocity": 62
+        },
+        {
+          "beat": 20,
+          "duration": 3.5,
+          "pitch": 45,
+          "velocity": 62
+        },
+        {
+          "beat": 24,
+          "duration": 3.5,
+          "pitch": 43,
+          "velocity": 62
+        },
+        {
+          "beat": 28,
+          "duration": 3.5,
+          "pitch": 38,
+          "velocity": 62
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "muse-agent"
+version = "0.1.0"
+description = "A composition and MIDI revision workbench for Codex and Claude"
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.24"]
+
+[project.scripts]
+muse-agent = "muse_agent.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
