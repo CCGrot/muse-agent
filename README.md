@@ -5,10 +5,11 @@ idea, a local repository, text files or a public webpage. The model interprets
 theme, mood and dramatic arc, authors a structured score, and the local engine
 validates it and exports MIDI, WAV and MP3. Continue with natural-language edits.
 
-The musical starting point is Flint Chorus: deliberate sections, recurring motifs,
-performer roles, expressive note values, and a separate instrument/rendering pass.
-This is a standalone project with no imports from the original repository and no
-prehistoric style restriction. It creates no HTML viewer. A static SVG piano roll
+The musical starting point is a prior composition project: deliberate sections,
+recurring motifs, performer roles, expressive note values, and a separate
+instrument/rendering pass. This is a standalone project with no imports from
+that original repository and no prehistoric style restriction. It creates no
+HTML viewer. A static SVG piano roll
 and JSON inspection report make existing MIDI inspectable by a person or coding agent.
 
 ## Quick start

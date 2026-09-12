@@ -21,5 +21,5 @@ verified local presets from suggested web search terms. Do not invent sample
 licenses or confuse MIDI programs with bundled instrument recordings.
 
 For code changes, run `python -m unittest discover -s tests -v`. Keep imports
-independent of the parent Flint Chorus repository. Do not add HTML viewers,
+independent of the prior composition project. Do not add HTML viewers,
 vendored sound banks, credentials or generated audio to source control.

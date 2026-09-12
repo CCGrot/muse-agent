@@ -68,7 +68,7 @@ but the CLI is not designed as a hostile-network fetch service. For stronger
 isolation use an OS/container sandbox. Sources may be incomplete or misleading;
 musical interpretation should say where assumptions were made.
 
-The original Flint Chorus supplied the workflow lessons, not a required library.
+The original prior project supplied the workflow lessons, not a required library.
 The new composer is model-authored rather than a fixed prehistoric procedural
 preset. Local synthesis and instrument advice are explicitly proxies. No sound
 bank, model credential or third-party music is included in the source repository.
